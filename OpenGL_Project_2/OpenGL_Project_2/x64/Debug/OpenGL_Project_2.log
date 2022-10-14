@@ -1,0 +1,4 @@
+﻿  glad.c
+  源.cpp
+D:\LearnOpenGL\OpenGL_Project_2\OpenGL_Project_2\源.cpp(13,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenGL_Project_2.vcxproj -> D:\LearnOpenGL\OpenGL_Project_2\x64\Debug\OpenGL_Project_2.exe
